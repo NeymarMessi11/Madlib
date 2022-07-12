@@ -1,3 +1,19 @@
 h1{
     color: red;
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+::placeholder{
+    color: orange;
+}
+body{
+    background-color: green;
+}
+p{
+    color: red;
+}
+li{
+    color: orange;
 }
